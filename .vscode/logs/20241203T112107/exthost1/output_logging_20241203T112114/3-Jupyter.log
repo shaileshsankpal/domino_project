@@ -1,0 +1,11 @@
+code-server (1.85.1, modelops-dev.eyfabric.ey.com, server-distro)
+Jupyter Extension Version: 2023.9.100.
+Python Extension Version: 2023.4.1.
+Platform: linux (x64).
+Workspace folder /mnt/code, Home = /home/ubuntu
+11:29:12.134 [info] User belongs to experiment group 'NewJupyterSession'
+11:29:12.365 [info] Start refreshing Kernel Picker (1733225352365)
+11:29:12.376 [info] Using Pylance
+11:29:13.556 [info] Start refreshing Interpreter Kernel Picker
+11:29:14.011 [info] Process Execution: /opt/conda/bin/python -m pip list
+11:29:14.777 [info] End refreshing Kernel Picker (1733225352365)
